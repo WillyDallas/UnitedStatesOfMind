@@ -1,0 +1,9 @@
+{
+  "name": "UnitedStatesOfMind",
+  "version": "0.0.1",
+  "description": "A WebApp for creating values aligned comunities",
+  "main": "index.js",
+  "repository": "https://github.com/WillyDallas/UnitedStatesOfMind.git",
+  "author": "Willy Dallas",
+  "license": "MIT"
+}
